@@ -1,18 +1,18 @@
 
 <div align="center">
     <h1>Hi👋, I'm <strong>MAHENDRA MAKWANA</strong> </h1>
-    <p>A passionate software engineer from India</p><br/>
+    <p><b>A passionate software engineer from India</b></p><br/>
   </div>
     <ul>
-        <li>🎥 I’m currently working on <strong>RESUME MAKER APPLICATION</strong></li>
-        <li>🌱 I’m currently learning <strong>FULL STACK WEB DEVELOPMENT </strong></li>
-        <li>🤝 I’m looking for help with <a href="#">pack your bag</a></li>
-        <li>👨‍💻 All of my projects are available at <a href="https://bio.link/krishnanandmishra">bio.link/MahendraMakwana</a></li>
-        <li>💬 Ask me about <strong>DATA STRUCTURE AND ALGORITHM</strong> && <strong>WEB DEVELOPMENT</strong></li>
-        <li>📫 How to reach me <a href="mailto:makwana.mahendra6237@gmail.com">makwana.mahendra6237@gmail.com</a></li>
+        <li>🎥 I’m currently working on <strong>RESUME MAKER APPLICATION</strong></li><br/>
+        <li>🌱 I’m currently learning <strong>FULL STACK WEB DEVELOPMENT </strong></li><br/>
+        <li>🤝 I’m looking for help with <a href="#">pack your bag</a></li><br/>
+        <li>👨‍💻 All of my projects are available at <a href="https://bio.link/krishnanandmishra">bio.link/MahendraMakwana</a></li><br/>
+        <li>💬 Ask me about <strong>DATA STRUCTURE AND ALGORITHM</strong> && <strong>WEB DEVELOPMENT</strong></li><br/>
+        <li>📫 How to reach me <a href="mailto:makwana.mahendra6237@gmail.com">makwana.mahendra6237@gmail.com</a></li><br/>
         <li>⚡ Fun fact <strong>I AM FUNNY</strong></li>
     </ul>
-  <b><h2>Connect with me:</h2></b><br/>
+  <b><h2>Connect with me:</h2></b>
 <p >
   <a href="https://www.linkedin.com/in/makwana-mahendra-99a373260//" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
@@ -33,7 +33,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
   </a>
 </p>
-<h2> 🛠️ Languages and Tools:</h2><br/>
+<h2> 🛠️ Languages and Tools:</h2>
 
 <p >
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50" height="50" style="margin-right: 10px;" />
