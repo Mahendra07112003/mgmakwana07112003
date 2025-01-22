@@ -4,7 +4,7 @@
     <p><b>A passionate software engineer from India</b></p><br/>
   </div>
     <ul>
-        <li>🎥 I’m currently working on <strong>RESUME MAKER APPLICATION</strong></li><br/>
+        <li>🎥 I’m currently working on <strong>RESUME BUILDER AND PORTFOLIO GENERATOR </strong></li><br/>
         <li>🌱 I’m currently learning <strong>FULL STACK WEB DEVELOPMENT </strong></li><br/>
         <li>🤝 I’m looking for help with <a href="#">pack your bag</a></li><br/>
         <li>👨‍💻 All of my projects are available at <a href="https://bio.link/krishnanandmishra">bio.link/MahendraMakwana</a></li><br/>
