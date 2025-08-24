@@ -6,7 +6,7 @@
     <ul>
         <li>🎥 I’m currently working on <strong>FULL STACK DEVELOPMENT </strong></li><br/>
         <li>🌱 I’m currently learning <strong>AI & AUTOMATIO </strong></li><br/>
-        <li>👨‍💻 All of my projects are available at <a href="https://portfolio-mocha-eta.vercel.app/">bio.link/MahendraMakwana</a></li><br/>
+        <li>👨‍💻 All of my projects are available at <a href="https://mahendramakwana-portfolio.vercel.app/">bio.link/MahendraMakwana</a></li><br/>
         <li>💬 Ask me about <strong>DATA STRUCTURE AND ALGORITHM</strong> && <strong>WEB DEVELOPMENT</strong></li><br/>
         <li>📫 How to reach me <a href="mailto:makwana.mahendra6237@gmail.com">makwana.mahendra6237@gmail.com</a></li><br/>
         <li>⚡ Fun fact <strong>I AM FUNNY</strong></li>
